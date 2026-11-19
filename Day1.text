@@ -1,0 +1,28 @@
+Date: 16/11/2026(Monday)
+
+#Topics Covered:     
+                -->Functional Interface
+                -->Anonymous Function
+                -->Types of Functional Interface: 
+                                                    1)Consumer Interface
+                                                    2)Supplier Interface
+                                                    3)Predicate Interface
+                -->Lambda Expression.
+
+#Given task:   Employee Attendance Management
+
+
+#Scenario: A company wants to identify employees who are present and generate attendance reports.
+
+#Requirements:
+
+                -- Create a list of employee attendance percentages: 95, 45, 80, 30, 100.
+
+                --Use Predicate to check whether attendance is 75% ог above.
+
+                --Use Consumer to print eligible attendance percentages.
+
+                --Use forEach() to process the list.
+
+#Concepts:
+                -- List, Generics, Predicate, Consumer, Lambda, forEach.

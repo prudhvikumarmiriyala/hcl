@@ -1,0 +1,21 @@
+Date: 18/11/2026 (Wednesday).
+
+#Topics Covered: --> Intermediate operations in Streams -->eg: filter(),map(),sorted(),etc..
+                 --> Terminal operations in Streams --> eg: forEach(),collect(),etc..
+                 --> And Code implementation of the above topics.
+
+#Given Task: 
+
+Scenario:
+ E-Commerce Order Management System
+You are developing an E-Commerce application that manages customer orders.
+Each order contains Order ID, Customer Name, Product, Category, Amount, Status and Delivery City.
+Tasks: Using the given Order dataset and Java Stream API:• Filter orders based on amount and status.
+· Sort orders by amount.
+•
+Find the highest and lowest order amounts. 
+• Calculate total sales, 
+• Count the number of orders.
+• Group orders by category and city.• Calculate average order amount.
+Objective: Practise Intermediate Operations, Terminal Operations and Collectors using a real-world business scenanio.
+                                                        
